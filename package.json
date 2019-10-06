@@ -1,0 +1,26 @@
+{
+  "name": "password_encryptor",
+  "version": "0.0.1",
+  "description": "Testing bcrypt password encryption",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattoattacko/npm-password-encryptor.git"
+  },
+  "keywords": [
+    "bcrypt"
+  ],
+  "author": "Matthew McQuain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattoattacko/npm-password-encryptor/issues"
+  },
+  "homepage": "https://github.com/mattoattacko/npm-password-encryptor#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "colors": "^1.4.0"
+  }
+}
