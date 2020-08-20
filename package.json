@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mattoattacko/npm-password-encryptor#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "colors": "^1.4.0"
   }
 }
